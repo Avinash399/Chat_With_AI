@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import axios from "axios"
+// import axios from "axios"
 function App() {
   const [question, setQuestion] = useState('');
   const [answer, setAnser] = useState('');
